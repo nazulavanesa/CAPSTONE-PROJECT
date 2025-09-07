@@ -1,10 +1,10 @@
   **Tokopedia Product Reviews Analysis (2019)**
   
-## OVERVIEW
+## Overview
 Proyek ini merupakan bagian dari Capstone Project dengan fokus pada **Data Classification & Summarization**.
 Dataset yang digunakan adalah ulasan produk Tokopedia tahun 2019, yang berisi informasi kategori produk, nama produk, rating, serta review pelanggan. 
 
-## DATASET
+## Dataset
 **Nama:** Tokopedia Product Reviews (2019)
 **Link Dataset:** https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews
 **Deskripsi:** Dataset berisi informasi produk, kategori, rating, dan review pelanggan.
