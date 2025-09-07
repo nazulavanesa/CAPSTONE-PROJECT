@@ -25,6 +25,20 @@ Dataset yang digunakan adalah ulasan produk Tokopedia tahun 2019, yang berisi in
   - Positive Reviews: 74.64%
 Mayoritas review positif, namun review negatif berisi keluhan terkait pengiriman, kualitas barang, atau produk tidak sesuai deskripsi.
 
+**Review dengan rating 1**
+ - Pengirimannya terlalu lama.... No rekomen deh
+ - barang sudah di terima, size gk sesuai. Minta...
+ - Produk baru seminggu udh mati. Gimana sih
+ - Produk sangat buruk...tidak bisa buat telpon....
+ - Hp tidak berfungsi sama sekali
+
+**Review dengan rating 5**
+ - barang oke, sesui deskripsi thx.
+ - tq barangnya udah sampai dengan cepat.
+ - pengepakan rapi barang bagus.
+ - ssssiiiiiiiiiiiiiiiippppppppppppppppppp.
+ - sangat bagus tapi gak terlalu besar.
+  
 **Produk dengan Penjualan tertinggi**
 Contoh :
   - Tinta Printer
