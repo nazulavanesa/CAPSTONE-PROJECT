@@ -1,4 +1,4 @@
-  **Tokopedia Product Reviews Analysis (2019)**
+  **Analisis Ulasan Produk Tokopedia Menggunakan IBM Granite**
   
 ## Overview
 Proyek ini merupakan bagian dari Capstone Project dengan fokus pada **Data Classification & Summarization**.
